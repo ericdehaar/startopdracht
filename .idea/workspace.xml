@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d9f4b1-964c-41d9-8bbe-b274fa9c08e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/bedrijf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_06_14_135729_create_bedrijfs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/bedrijfs/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/bedrijfs/layout.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/bedrijfs/list.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="72" column="27" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="27" />
+            <state relative-caret-position="364">
+              <caret line="94" column="31" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="31" />
               <folding>
                 <element signature="e#40#56#0#PHP" expanded="true" />
               </folding>
@@ -63,17 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/list.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="323">
               <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state>
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -81,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
+            <state relative-caret-position="263">
+              <caret line="31" column="96" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -124,6 +113,10 @@
       <find>crud</find>
       <find>note</find>
       <find>info</find>
+      <find>descrip</find>
+      <find>title</find>
+      <find>0</find>
+      <find>id</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,11 +161,11 @@
         <option value="$PROJECT_DIR$/resources/views/notes/Create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/notes/Edit.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php" />
         <option value="$PROJECT_DIR$/resources/views/bedrijfs/layout.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/bedrijfs/list.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/bedrijfs/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php" />
       </list>
     </option>
   </component>
@@ -421,12 +414,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560498884150</updated>
-      <workItem from="1560498885244" duration="22787000" />
+      <workItem from="1560498885244" duration="24337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22787000" />
+    <option name="totallyTimeSpent" value="24337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="2576" height="1426" extended-state="6" />
@@ -754,13 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/list.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -768,27 +754,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/list.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="72" column="27" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="27" />
-          <folding>
-            <element signature="e#40#56#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="49" column="131" selection-start-line="49" selection-start-column="131" selection-end-line="49" selection-end-column="131" />
+        <state relative-caret-position="323">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state>
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/bedrijfs/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="31" column="96" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BedrijfsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="31" />
+          <folding>
+            <element signature="e#40#56#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -85,11 +85,13 @@ class BedrijfsController extends Controller
     public function update(Request $request, $id)
     {
         $request->validate([
-            'title' => 'required',
-            'description' => 'required',
+            'naam' => 'required',
+            'email' => 'required',
+            'logo' => 'required',
+            'website' => 'required',
         ]);
 
-        $update = ['title' => $request->title, 'description' => $request->description];
+        $update = ['naam' => $request->naam, 'email' => $request->logo,$request->logo, 'website' => $request->website];
         bedrijf::where('id',$id)->update($update);
 
         return Redirect::to('bedrijfs')
