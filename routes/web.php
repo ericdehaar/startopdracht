@@ -23,3 +23,9 @@ Route::get('/home', 'HomeController@index')
 Route::get('/admin', 'AdminController@admin')
     ->middleware('is_admin')
     ->name('admin');
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::resource('bedrijfs', 'BedrijfsController');
